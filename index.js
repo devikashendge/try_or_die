@@ -1,5 +1,5 @@
 //3. At the top of the game.js file, create a new array called buttonColours and set it to hold the sequence "red", "blue", "green", "yellow" .
-var buttonColours = ["orange", "blue", "pink", "yellow"];
+var buttonColours = ["pink", "orange", "yellow", "blue"];
 
 //5. At the top of the game.js file, create a new empty array called gamePattern.
 var gamePattern = [];
